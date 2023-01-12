@@ -5,7 +5,7 @@ proyecto  "Batatabyt"
 compra y venta de criptomonedas.
 
 trabajamos CSS3, HTML5, Media querrys.
-junto con buenas practicas de accesibilidad, performance.
+junto con buenas practicas de accesibilidad, performance y la metodologia BEM.
 
 Mobile fist.
 ![mobile-first](https://user-images.githubusercontent.com/66648117/172188537-b056c8bf-0854-40f6-b44f-c7423f1d2fab.png)
